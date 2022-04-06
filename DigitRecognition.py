@@ -185,7 +185,7 @@ def reset():
 
 if __name__ == "__main__":
     """ Load the trained model for testing the script"""
-    model = load_model("models/model.h5")
+    model = load_model("model/model.h5")
 
     """creating a logger to save the location and detected number """
     user_logger = logging.getLogger("user_logger")
