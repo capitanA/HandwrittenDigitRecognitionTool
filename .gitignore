@@ -1,0 +1,4 @@
+/venv
+*.ides/
+*.DS_Store
+__pycache__/
