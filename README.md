@@ -79,6 +79,14 @@ I have tested 10 different handwritten images on this model. in most cases the m
 Test images are available in images folder and the outputs images were saved in output folder.
 There is a user_logger.log file at this directory as well in which all the coordinates was stored.
 
+Results:
+
+![Example screenshot](images/img1.png)
+![Example screenshot](output/result_img1.png)
+
+![Example screenshot](images/img5.JPG)
+![Example screenshot](output/result_img5.JPG)
+
 
 Configuration
 -------------
